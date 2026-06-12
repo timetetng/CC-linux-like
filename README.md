@@ -16,11 +16,11 @@ For some linux nerds who just wanna use neofetch and vim everywhere like me XD. 
 - pwd
 - tree
 - neofetch
+- git
+- ...
 
 ```bash
-git clone https://timetetng/CC-linux-like.git && cd CC-linux-like
-cp -r bin/ /your/path/CC/id/
-cat startup.lua >> /your/path/CC/id/startup.lua
+wget run https://raw.githubusercontent.com/timetetng/CC-linux-like/main/install.lua
 ```
 
 Enjoy your CraftOS.
